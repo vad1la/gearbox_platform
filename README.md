@@ -1,1 +1,2 @@
-# gearbox_platform
+# Gearbox platform
+University project from OOA&amp;P subject
